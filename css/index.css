@@ -301,7 +301,7 @@ input{outline:none;}
 
 
 	/*来访路线*/ 
-	.map{width:100%;margin:0 auto;height:250px;margin-bottom: 73px;}
+	.map{width:100%;margin:0 auto;height:250px;margin-bottom: 73px;overflow: hidden;}
 	.map-txt{width:100%;height:auto;background:#fdf8f3;padding-top:10px;padding-bottom:10px;}
 	.map-txt1{margin-left: 5%;overflow: hidden;}
 	.map-txt span{font-size: 14px;color: #ff0202;font-weight: 600;display: block;float: left;line-height:20px;}
